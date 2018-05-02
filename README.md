@@ -31,7 +31,7 @@ Note: This lab uses a webcam, and if you are using a webcam in HTML, most modern
 
 ### 1. Clone this repository
 ```
-git clone https://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/rekognition-demo
+git clone https://github.com/junghee-kang/rekognition-demo.git
 ```
 
 ### 2. Creating a CloudFormation stack

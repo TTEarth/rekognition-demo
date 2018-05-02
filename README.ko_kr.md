@@ -30,7 +30,7 @@ AWS CLI 시작하기 안내서에 따라 시스템에 CLI를 설치 및 구성�
 
 ### 1. Git Repository 복제 
 ```
-git clone https://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/rekognition-demo
+git clone https://github.com/junghee-kang/rekognition-demo.git
 ```
 
 ### 2. CloudFormation 스택 생성
